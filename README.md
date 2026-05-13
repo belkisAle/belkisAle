@@ -46,18 +46,6 @@ Soy una desarrolladora Full-Stack con experiencia en JavaScript, React y Python 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BelkisAlejandraMarquez&show_icons=true&theme=tokyonight&locale=es" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelkisAlejandraMarquez&layout=compact&theme=tokyonight&locale=es" />
-
-</div>
-
----
-
 ## 🌱 Actualmente aprendiendo
 
 - ⚛️ React y manejo de estado
