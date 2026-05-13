@@ -48,11 +48,10 @@ Tengo formación profesional como odontóloga 🦷, lo que me ha permitido desar
 
 ---
 
-### 🎧 Herramientas
+### 🎧 Control de Versiones
 
 ![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-F3E8FF?style=for-the-badge&logo=github&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-E9D5FF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 ---
 
