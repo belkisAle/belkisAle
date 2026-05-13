@@ -1,79 +1,82 @@
-
-# 👋 ¡Hola! Soy Belkis Alejandra Márquez
-
----
-
-### 🚀 Full Stack Developer
-
-💻 Apasionada por el desarrollo web y la creación de soluciones digitales  
-👩‍💻 Programadora en crecimiento | 🦷 Odontóloga de profesión 
-📍 Madrid, España
-
-
----
-
-## ✨ Sobre mí
-
-Soy una desarrolladora Full-Stack con experiencia en JavaScript, React y Python y formación como Dentista. Combino la precisión del sector sanitario con la resolución técnica de problemas. Enfocada al aprendizaje continuo.
-
----
-
-## 🛠️ Stack Tecnológico
-
-
-### 🎨 Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### 🧰 Herramientas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🌱 Actualmente aprendiendo
-
-- ⚛️ React y manejo de estado
-- 🐍 Desarrollo backend con Python
-- 🔗 APIs REST
-- 🗄️ Bases de datos
-- ⚙️ Arquitectura y organización de proyectos Full Stack
-
----
-
-## 🎯 Objetivo Profesional
-
-Busco formar parte de un equipo donde pueda seguir creciendo como desarrolladora, aportar soluciones y continuar fortaleciendo mis habilidades técnicas.
-
----
-
-## 📫 Contacto
-
-<a href="https://www.linkedin.com/in/belkis-alejandra-marquez-blanco">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:belkismarquezblanco@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-
----
-
 <div align="center">
 
-✨ Gracias por visitar mi perfil ✨
+# 🌸 Hola, soy Belkis Alejandra Márquez 🌸
+
+### 💻 Full Stack Developer
+
+🦷 Odontóloga | 👩‍💻 Programadora | ✨ Amante de la tecnología  
+📍 Madrid, España
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=800&lines=Future+Full+Stack+Developer+💻;HealthTech+Enthusiast+🦷;Building+digital+solutions+✨;Frontend+%26+Backend+Learner+🌸" />
+
+<br>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x6cTJtb3V6MzA4aHBwZmJtbGQ1eWx6aW9iY2Q1bDR4ZjR6YTR2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 
 </div>
+
+---
+
+# 🌷 Sobre mí
+
+Tengo formación profesional como odontóloga 🦷, lo que me ha permitido desarrollar habilidades como:
+
+- Atención al detalle
+- Resolución de problemas
+- Trabajo bajo presión
+- Comunicación con personas
+
+
+---
+
+✨ Soy una desarrolladora Full Stack en formación con experiencia en:
+
+### 🎀 Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FBCFE8?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-E9D5FF?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-F9A8D4?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-DDD6FE?style=for-the-badge&logo=css3&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-F5D0FE?style=for-the-badge&logo=bootstrap&logoColor=black)
+
+---
+
+### 🌸 Backend
+
+![Python](https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-EDE9FE?style=for-the-badge&logo=flask&logoColor=black)
+
+---
+
+### 🎧 Herramientas
+
+![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-F3E8FF?style=for-the-badge&logo=github&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-E9D5FF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+
+---
+
+# 🌱 Actualmente aprendiendo
+
+🌷 React
+🌷 APIs REST  
+🌷 Backend con Python  
+🌷 Bases de datos  
+🌷 Arquitectura Full Stack  
+🌷 Tecnologia aplicada a salud
+
+---
+
+# 🎯 Objetivo
+
+💡 Crear proyectos donde pueda unir salud, tecnología y diseño para desarrollar experiencias útiles, modernas y humanas.
+
+---
+
+# 📫 Contacto
+
+💌 LinkedIn  
+www.linkedin.com/in/belkis-alejandra-marquez
+
+🌸 Gracias por visitar mi perfil 🌸
 
