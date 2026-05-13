@@ -15,11 +15,7 @@
 
 ## ✨ Sobre mí
 
-Soy una desarrolladora Full Stack en formación, enfocada en construir aplicaciones web funcionales, organizadas y escalables.
-
-Me interesa especialmente el desarrollo frontend con React y la construcción de arquitecturas backend con Python, aplicando buenas prácticas, planificación y diseño lógico desde las primeras etapas del proyecto.
-
-Actualmente continúo fortaleciendo mis habilidades técnicas mientras desarrollo proyectos personales orientados a resolver problemas reales.
+Soy una desarrolladora Full-Stack con experiencia en JavaScript, React y Python y formación como Dentista. Combino la precisión del sector sanitario con la resolución técnica de problemas. Enfocada al aprendizaje continuo.
 
 ---
 
@@ -74,7 +70,7 @@ Actualmente continúo fortaleciendo mis habilidades técnicas mientras desarroll
 
 ## 🎯 Objetivo Profesional
 
-Busco formar parte de un equipo donde pueda seguir creciendo como desarrolladora, aportar soluciones reales y continuar fortaleciendo mis habilidades técnicas y profesionales.
+Busco formar parte de un equipo donde pueda seguir creciendo como desarrolladora, aportar soluciones y continuar fortaleciendo mis habilidades técnicas.
 
 ---
 
