@@ -7,7 +7,7 @@
 🦷 Odontóloga | 👩‍💻 Programadora | ✨ Amante de la tecnología  
 📍 Madrid, España
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=800&lines=Future+Full+Stack+Developer+💻;HealthTech+Enthusiast+🦷;Building+digital+solutions+✨;Frontend+%26+Backend+Learner+🌸" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F9A8D4&center=true&vCenter=true&width=800&lines=+Full+Stack+Developer+💻;HealthTech+Enthusiast+🦷;Building+digital+solutions+✨;Frontend+%26+Backend+🌸" />
 
 <br>
 
@@ -21,7 +21,7 @@
 
 Tengo formación profesional como odontóloga 🦷, lo que me ha permitido desarrollar habilidades como:
 
-- Atención al detalle
+- Atención al detalle y precisión
 - Resolución de problemas
 - Trabajo bajo presión
 - Comunicación con personas
@@ -53,17 +53,6 @@ Tengo formación profesional como odontóloga 🦷, lo que me ha permitido desar
 ![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-F3E8FF?style=for-the-badge&logo=github&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-E9D5FF?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-
----
-
-# 🌱 Actualmente aprendiendo
-
-🌷 React
-🌷 APIs REST  
-🌷 Backend con Python  
-🌷 Bases de datos  
-🌷 Arquitectura Full Stack  
-🌷 Tecnologia aplicada a salud
 
 ---
 
