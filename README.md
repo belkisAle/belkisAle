@@ -1,8 +1,7 @@
-<div align="center">
-# 👋 ¡Hola! Soy Belkis Alejandra Márquez
-</div>
 
-<div align="center">
+# 👋 ¡Hola! Soy Belkis Alejandra Márquez
+
+---
 
 ### 🚀 Full Stack Developer en formación
 
@@ -10,7 +9,6 @@
 👩‍💻 Programadora en crecimiento | 🦷 Odontóloga de profesión 
 📍 Madrid, España
 
-</div>
 
 ---
 
