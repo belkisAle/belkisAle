@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 Full Stack Developer en formación
+### 🚀 Full Stack Developer
 
 💻 Apasionada por el desarrollo web y la creación de soluciones digitales  
 👩‍💻 Programadora en crecimiento | 🦷 Odontóloga de profesión 
@@ -76,5 +76,4 @@ Busco formar parte de un equipo donde pueda seguir creciendo como desarrolladora
 ✨ Gracias por visitar mi perfil ✨
 
 </div>
-```
 
