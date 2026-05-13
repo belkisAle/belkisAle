@@ -6,8 +6,8 @@ Soy una entusiasta de la tecnología en pleno proceso de crecimiento. Me enfoco 
 ---
 ### 🔍 Sobre mí:
 
-- 📚 **Formación Actual:** Expandiendo mis habilidades técnicas en el ecosistema de **React** y desarrollando arquitecturas de backend con **Python**.
-- ⚙️ **Metodología:** Enfocada en la planificación estructurada de proyectos, desde la lógica del negocio hasta el diseño de bases de datos y endpoints.
+- 📚 **Formación Actual:** Expandiendo mis habilidades técnicas en  **React** y desarrollando arquitecturas de backend con **Python**.
+- ⚙️ **Metodología:** Enfocada en la planificación de proyectos, desde la lógica del negocio hasta el diseño de bases de datos y endpoints.
 - 💡 **Intereses:** Apasionada por la tecnología y por cómo utilizar herramientas modernas para optimizar el flujo de desarrollo.
 - 🎯 **Objetivo Profesional:** Busco una oportunidad laboral para integrar equipos técnicos donde pueda aportar valor y continuar evolucionando mis habilidades como programadora.
 
