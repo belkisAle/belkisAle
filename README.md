@@ -63,8 +63,9 @@ Tengo formación profesional como odontóloga 🦷, lo que me ha permitido desar
 
 # 📫 Contacto
 
-💌 LinkedIn  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-F9A8D4?style=for-the-badge&logo=linkedin&logoColor=black)
+
 www.linkedin.com/in/belkis-alejandra-marquez
 
-🌸 Gracias por visitar mi perfil 🌸
+
 
