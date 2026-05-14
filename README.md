@@ -45,7 +45,7 @@ Tengo formación profesional como odontóloga 🦷, lo que me ha permitido desar
 
 # 🎯 Objetivo
 
-💡 Crear proyectos donde pueda unir salud, tecnología y diseño para desarrollar experiencias útiles, modernas y humanas.
+💡 Crear proyectos donde pueda unir salud, tecnología y diseño para desarrollar experiencias útiles.
 
 ---
 
