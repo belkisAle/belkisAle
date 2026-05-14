@@ -31,25 +31,13 @@ Tengo formación profesional como odontóloga 🦷, lo que me ha permitido desar
 
 ✨ Soy una desarrolladora Full Stack en formación con experiencia en:
 
-### 🎀 Frontend
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-FBCFE8?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-E9D5FF?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-F9A8D4?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-DDD6FE?style=for-the-badge&logo=css3&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-F5D0FE?style=for-the-badge&logo=bootstrap&logoColor=black)
-
----
-
-### 🌸 Backend
-
 ![Python](https://img.shields.io/badge/Python-F9A8D4?style=for-the-badge&logo=python&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-EDE9FE?style=for-the-badge&logo=flask&logoColor=black)
-
----
-
-### 🎧 Control de Versiones
-
 ![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-F3E8FF?style=for-the-badge&logo=github&logoColor=black)
 
