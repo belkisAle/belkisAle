@@ -11,10 +11,6 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x6cTJtb3V6MzA4aHBwZmJtbGQ1eWx6aW9iY2Q1bDR4ZjR6YTR2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
-
-</div>
-
 ---
 
 # 🌷 Sobre mí
